@@ -1,0 +1,14 @@
+C:\Users\RobertoVR\Desktop\scanner\scanner\scanner\bin\Debug\netstandard2.0\scanner.deps.json
+C:\Users\RobertoVR\Desktop\scanner\scanner\scanner\bin\Debug\netstandard2.0\scanner.dll
+C:\Users\RobertoVR\Desktop\scanner\scanner\scanner\bin\Debug\netstandard2.0\scanner.pdb
+C:\Users\RobertoVR\Desktop\scanner\scanner\scanner\obj\Debug\netstandard2.0\scanner.csproj.CoreCompileInputs.cache
+C:\Users\RobertoVR\Desktop\scanner\scanner\scanner\obj\Debug\netstandard2.0\scanner.App.xaml.g.cs
+C:\Users\RobertoVR\Desktop\scanner\scanner\scanner\obj\Debug\netstandard2.0\scanner.MainPage.xaml.g.cs
+C:\Users\RobertoVR\Desktop\scanner\scanner\scanner\obj\Debug\netstandard2.0\scanner.AssemblyInfoInputs.cache
+C:\Users\RobertoVR\Desktop\scanner\scanner\scanner\obj\Debug\netstandard2.0\scanner.AssemblyInfo.cs
+C:\Users\RobertoVR\Desktop\scanner\scanner\scanner\obj\Debug\netstandard2.0\scanner.dll
+C:\Users\RobertoVR\Desktop\scanner\scanner\scanner\obj\Debug\netstandard2.0\scanner.pdb
+C:\Users\RobertoVR\Desktop\scanner\scanner\scanner\obj\Debug\netstandard2.0\scanner.escribe.xaml.g.cs
+C:\Users\RobertoVR\Desktop\scanner\scanner\scanner\obj\Debug\netstandard2.0\scanner.decision.xaml.g.cs
+C:\Users\RobertoVR\Desktop\scanner\scanner\scanner\obj\Debug\netstandard2.0\scanner.scanner.xaml.g.cs
+C:\Users\RobertoVR\Desktop\scanner\scanner\scanner\obj\Debug\netstandard2.0\scanner.csprojResolveAssemblyReference.cache

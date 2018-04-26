@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="scanner.escribe"
+             Title="escribir código"
+             NavigationPage.HasNavigationBar="false"
+             >
+    <ContentPage.Content>
+        <StackLayout
+            VerticalOptions="Center"
+            >
+            <Entry x:Name="contentEntry" TextColor="Black"
+                    Placeholder="Escribe Código" PlaceholderColor="Silver" 
+                    Keyboard="Text" FontSize="18" 
+                    Text=""
+                    Margin="20"               
+                    HorizontalTextAlignment="Start"/>
+            
+            <Button Text="Buscar" HorizontalOptions="FillAndExpand" 
+                    BackgroundColor="#2196F3" 
+                    TextColor="White" Clicked="Buscar"
+                    WidthRequest="150"
+                    />
+            <Button Text="Cancelar" HorizontalOptions="FillAndExpand" 
+                    BackgroundColor="#FB3D15" 
+                    WidthRequest="150"
+                    TextColor="White" Clicked="Cancelar"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

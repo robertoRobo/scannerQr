@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             NavigationPage.HasNavigationBar="false"
+             x:Class="scanner.decision">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout
+                >
+                <Label x:Name="num_orden"
+                   Text=""
+                        HorizontalOptions="Fill"
+                   FontSize="Medium" FontAttributes="Bold"/>
+                <Label x:Name="id_usuario"
+                   Text=""
+                       HorizontalOptions="Fill"
+                   FontSize="Medium" FontAttributes="Bold"/>
+                <Label x:Name="id_sucursal"
+                   Text=""
+                       HorizontalOptions="Fill"
+                   FontSize="Medium" FontAttributes="Bold"/>
+                <Label x:Name="descripcion"
+                   Text=""
+                       HorizontalOptions="Fill"
+                   FontSize="Medium" FontAttributes="Bold"/>
+                <Label x:Name="total"
+                   Text=""
+                       HorizontalOptions="Fill"
+                   FontSize="Medium" FontAttributes="Bold"/>
+                <Label x:Name="codigo"
+                   Text=""
+                       HorizontalOptions="Fill"
+                   FontSize="Medium" FontAttributes="Bold"/>
+                <Label x:Name="fecha"
+                   Text=""
+                       HorizontalOptions="Fill"
+                   FontSize="Medium" FontAttributes="Bold"/>
+                
+              </StackLayout>
+            
+            
+            <Button Text="Eliminar" HorizontalOptions="FillAndExpand" 
+                    BackgroundColor="#2196F3" 
+                    FontSize="18"
+                    TextColor="White" Clicked="Aceptar"
+                    WidthRequest="150"
+                    />
+            <Button Text="Cancelar" HorizontalOptions="FillAndExpand" 
+                    BackgroundColor="#FB3D15" 
+                    FontSize="18"
+                    WidthRequest="150" Clicked="Cancelar"
+                    TextColor="White" />
+            
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>
